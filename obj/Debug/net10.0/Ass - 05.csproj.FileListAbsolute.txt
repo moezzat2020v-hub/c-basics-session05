@@ -1,0 +1,15 @@
+D:\Asp.Net\Ass - 05\bin\Debug\net10.0\Ass - 05.exe
+D:\Asp.Net\Ass - 05\bin\Debug\net10.0\Ass - 05.deps.json
+D:\Asp.Net\Ass - 05\bin\Debug\net10.0\Ass - 05.runtimeconfig.json
+D:\Asp.Net\Ass - 05\bin\Debug\net10.0\Ass - 05.dll
+D:\Asp.Net\Ass - 05\bin\Debug\net10.0\Ass - 05.pdb
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.AssemblyInfoInputs.cache
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.AssemblyInfo.cs
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.dll
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\refint\Ass - 05.dll
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.pdb
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.genruntimeconfig.cache
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\ref\Ass - 05.dll
+D:\Asp.Net\Ass - 05\obj\Debug\net10.0\Ass - 05.csproj.Up2Date
